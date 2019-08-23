@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motion Planning-1", "Motion Planning-1\Motion Planning-1.csproj", "{89B0446E-23EA-4804-B5E6-9DDB3B28DA85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B0446E-23EA-4804-B5E6-9DDB3B28DA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B0446E-23EA-4804-B5E6-9DDB3B28DA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B0446E-23EA-4804-B5E6-9DDB3B28DA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B0446E-23EA-4804-B5E6-9DDB3B28DA85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {434552A5-A97B-4B56-9A94-FE8C98C11807}
+	EndGlobalSection
+EndGlobal

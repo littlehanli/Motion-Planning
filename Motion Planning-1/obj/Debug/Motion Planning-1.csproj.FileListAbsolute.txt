@@ -1,0 +1,10 @@
+D:\Programming Prac\Visual Studio\Motion Planning-1\Motion Planning-1\obj\Debug\Motion Planning-1.csprojAssemblyReference.cache
+D:\Programming Prac\Visual Studio\Motion Planning-1\Motion Planning-1\obj\Debug\Motion_Planning_1.Properties.Resources.resources
+D:\Programming Prac\Visual Studio\Motion Planning-1\Motion Planning-1\obj\Debug\Motion Planning-1.csproj.GenerateResource.cache
+D:\Programming Prac\Visual Studio\Motion Planning-1\Motion Planning-1\obj\Debug\Motion Planning-1.csproj.CoreCompileInputs.cache
+D:\Programming Prac\Visual Studio\Motion Planning-1\Motion Planning-1\bin\Debug\Motion Planning-1.exe.config
+D:\Programming Prac\Visual Studio\Motion Planning-1\Motion Planning-1\bin\Debug\Motion Planning-1.exe
+D:\Programming Prac\Visual Studio\Motion Planning-1\Motion Planning-1\bin\Debug\Motion Planning-1.pdb
+D:\Programming Prac\Visual Studio\Motion Planning-1\Motion Planning-1\obj\Debug\Motion Planning-1.exe
+D:\Programming Prac\Visual Studio\Motion Planning-1\Motion Planning-1\obj\Debug\Motion Planning-1.pdb
+D:\Programming Prac\Visual Studio\Motion Planning-1\Motion Planning-1\obj\Debug\Motion_Planning_1.Form1.resources
